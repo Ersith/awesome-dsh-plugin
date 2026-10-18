@@ -1,0 +1,6 @@
+url: https://github.com/Ersith/akasha-book/tree/main/plugins/mcp-akasha
+name: Ersith/akasha-book#mcp-akasha
+category: memory
+description:
+  en: 'Registers the Akasha Book memory server over stdio and exposes its 22 akasha_* tools to DeepSeek Harness, covering lookup, briefs, revision chains, audits and session recall.'
+  zh: '把阿卡夏之书外置记忆层以 stdio 注册进 DSH，暴露 22 个 akasha_* 工具：检索、主题简报、修订链、审计与会话回看。'
