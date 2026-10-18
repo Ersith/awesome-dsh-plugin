@@ -1,0 +1,6 @@
+url: https://github.com/Ersith/akasha-book/tree/main/plugins/akasha-hooks
+name: Ersith/akasha-book#akasha-hooks
+category: memory
+description:
+  en: 'Records host events — turn ends, tool results, agent errors, idle transitions and assistant output — as append-only JSONL for Akasha metrics, recall checks and output audit.'
+  zh: '把宿主事件（回合结束、工具结果、agent 错误、空闲切换、assistant 输出）落成 append-only JSONL，供指标、召回检查与输出审计使用。'
